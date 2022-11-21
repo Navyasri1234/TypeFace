@@ -1,0 +1,2 @@
+A web crawler, which we generally call a “spider,” is an artificial intelligence that browses the internet to index and search for content by following links and exploring, like a person with too much time on their hands.
+In many projects, you first “crawl” the web or one specific website to discover URLs which then you pass on to your scraper.
